@@ -32,12 +32,8 @@ The images here are free for anyone to use. You don't need to, but it would be c
 
 ## Rust - Ferris:
 
-<img src="images/rust-ferris/crab-1.png" width=300 />
-<img src="images/rust-ferris/crab-2.png" width=300 />
-<img src="images/rust-ferris/crab-3.png" width=300 />
-<img src="images/rust-ferris/crab-4.png" width=300 />
-<img src="images/rust-ferris/crab-5.png" width=300 />
-<img src="images/rust-ferris/crab-6.png" width=300 />
+<img src="images/rust-ferris/crab-1.png" width=300 /> <img src="images/rust-ferris/crab-2.png" width=300 /> <img src="images/rust-ferris/crab-3.png" width=300 />
+<img src="images/rust-ferris/crab-4.png" width=300 /> <img src="images/rust-ferris/crab-5.png" width=300 /> <img src="images/rust-ferris/crab-6.png" width=300 />
 
 
 <details>
