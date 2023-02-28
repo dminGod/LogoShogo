@@ -42,6 +42,18 @@ The images here are free for anyone to use. You don't need to, but it would be c
 <img src="images/rust-ferris/crab-13.png" width=300 />
 </details>
 
+
+## HuggingFace :
+
+<img src="images/huggingface/hf-1.png" /> <img src="images/huggingface/hf-2.png" /> <img src="images/huggingface/hf-3.png" /> <img src="images/huggingface/hf-4.png" /> <img src="images/huggingface/hf-5.png" /> <img src="images/huggingface/hf-6.png" />
+
+
+<details>
+<summary>More</summary>
+<img src="images/huggingface/hf-7.png" /> <img src="images/huggingface/hf-8.png" /> <img src="images/huggingface/hf-9.png" /> <img src="images/huggingface/hf-10.png" /> <img src="images/huggingface/hf-11.png" /> <img src="images/huggingface/hf-12.png" /> <img src="images/huggingface/hf-13.png" /> <img src="images/huggingface/hf-14.png" />  <img src="images/huggingface/hf-15.png" /> <img src="images/huggingface/hf-16.png" /> <img src="images/huggingface/hf-17.png" /> <img src="images/huggingface/hf-18.png" /> <img src="images/huggingface/hf-19.png" /> <img src="images/huggingface/hf-20.png" />
+</details>
+
+
 ##  Flask:
 
 <img src="images/flask/flask-1.png" width=300 /> <img src="images/flask/flask-2.png" width=300 /> <img src="images/flask/flask-3.png" width=300 /> <img src="images/flask/flask-4.png" width=300 /> <img src="images/flask/flask-5.png" width=300 /> <img src="images/flask/flask-6.png" width=300 /> <img src="images/flask/flask-7.png" width=300 />
