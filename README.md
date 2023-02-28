@@ -13,53 +13,28 @@ The images here are free for anyone to use. You don't need to, but it would be c
 
 ## Golang
 
-<img src="images/golang/golang-4.png" width=300>
-<img src="images/golang/golang-5.png" width=300>
-<img src="images/golang/golang-13.png" width=300>
-<img src="images/golang/golang-11.png" width=300>
-<img src="images/golang/golang-12.png" width=300>
-<img src="images/golang/golang-1.png" width=300>
-<img src="images/golang/golang-2.png" width=300>
+<img src="images/golang/golang-4.png" width=300><img src="images/golang/golang-5.png" width=300><img src="images/golang/golang-13.png" width=300><img src="images/golang/golang-11.png" width=300><img src="images/golang/golang-12.png" width=300><img src="images/golang/golang-1.png" width=300><img src="images/golang/golang-2.png" width=300>
 
 <details>
 <summary>More</summary>
-<img src="images/golang/golang-3.png" width=300>
-<img src="images/golang/golang-6.png" width=300>
-<img src="images/golang/golang-7.png" width=300>
-<img src="images/golang/golang-8.png" width=300>
-<img src="images/golang/golang-9.png" width=300>
-<img src="images/golang/golang-10.png" width=300>
-<img src="images/golang/golang-14.png" width=300>
+<img src="images/golang/golang-3.png" width=300 /> <img src="images/golang/golang-6.png" width=300 /> <img src="images/golang/golang-7.png" width=300 /> <img src="images/golang/golang-8.png" width=300 /> <img src="images/golang/golang-9.png" width=300 /> <img src="images/golang/golang-10.png" width=300 /> <img src="images/golang/golang-14.png" width=300 />
 </details>
 
 ## Rust
 
-<img src="images/rust/rust-2.png" width=300>
-<img src="images/rust/rust-3.png" width=300>
-<img src="images/rust/rust-4.png" width=300>
-<img src="images/rust/rust-5.png" width=300>
-<img src="images/rust/rust-6.png" width=300>
-<img src="images/rust/rust-7.png" width=300>
-<img src="images/rust/rust-8.png" width=300>
-<img src="images/rust/rust-9.png" width=300>
+<img src="images/rust/rust-2.png" width=300 />
+<img src="images/rust/rust-3.png" width=300 />
+<img src="images/rust/rust-4.png" width=300 />
+<img src="images/rust/rust-5.png" width=300 />
+<img src="images/rust/rust-6.png" width=300 />
+<img src="images/rust/rust-7.png" width=300 />
+<img src="images/rust/rust-8.png" width=300 />
+<img src="images/rust/rust-9.png" width=300 />
 
 <details>
 <summary>More</summary>
-<img src="images/rust/rust-10.png" width=300>
-<img src="images/rust/rust-11.png" width=300>
-<img src="images/rust/rust-12.png" width=300>
-<img src="images/rust/rust-13.png" width=300>
-<img src="images/rust/rust-14.png" width=300>
-<img src="images/rust/rust-15.png" width=300>
-<img src="images/rust/rust-16.png" width=300>
-<img src="images/rust/rust-17.png" width=300>
-<img src="images/rust/rust-18.png" width=300>
-<img src="images/rust/rust-19.png" width=300>
-<img src="images/rust/rust-20.png" width=300>
-<img src="images/rust/rust-21.png" width=300>
-<img src="images/rust/rust-22.png" width=300>
-<img src="images/rust/rust-23.png" width=300>
-<img src="images/rust/rust-24.png" width=300>
+<img src="images/rust/rust-10.png" width=300 /> <img src="images/rust/rust-11.png" width=300 /> <img src="images/rust/rust-12.png" width=300 /> <img src="images/rust/rust-13.png" width=300 /> <img src="images/rust/rust-14.png" width=300 /> <img src="images/rust/rust-15.png" width=300 /> <img src="images/rust/rust-16.png" width=300 />
+<img src="images/rust/rust-17.png" width=300 /> <img src="images/rust/rust-18.png" width=300 /> <img src="images/rust/rust-19.png" width=300 /> <img src="images/rust/rust-20.png" width=300 /> <img src="images/rust/rust-21.png" width=300 /> <img src="images/rust/rust-22.png" width=300 /> <img src="images/rust/rust-23.png" width=300 /> <img src="images/rust/rust-24.png" width=300 />
 </details>
 
 ## Rust - Ferris:
