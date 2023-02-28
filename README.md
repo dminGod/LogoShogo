@@ -45,11 +45,13 @@ The images here are free for anyone to use. You don't need to, but it would be c
 
 ## HuggingFace :
 
-<img src="images/huggingface/hf-1.png" width=300 /> <img src="images/huggingface/hf-2.png"  width=300 /> <img src="images/huggingface/hf-3.png"  width=300 /> <img src="images/huggingface/hf-4.png"  width=300 /> <img src="images/huggingface/hf-5.png" width=300 /> <img src="images/huggingface/hf-6.png"  width=300 />
+<img src="images/huggingface/hf-16.png"  width=300 /> <img src="images/ huggingface/hf-15.png"  width=300 /> <img src="images/huggingface/hf-8.png" width=300 /> 
+<img src="images/huggingface/hf-12.png"  width=300 /> <img src="images/huggingface/hf-13.png"  width=300 /> <img src="images/huggingface/hf-14.png"  width=300 /> 
+<img src="images/huggingface/hf-20.png"  width=300 />
 
 <details>
 <summary>More</summary>
-<img src="images/huggingface/hf-7.png"  width=300 /> <img src="images/huggingface/hf-8.png" width=300 /> <img src="images/huggingface/hf-9.png"  width=300 /> <img src="images/huggingface/hf-10.png"  width=300 /> <img src="images/huggingface/hf-11.png"  width=300 /> <img src="images/huggingface/hf-12.png"  width=300 /> <img src="images/huggingface/hf-13.png"  width=300 /> <img src="images/huggingface/hf-14.png"  width=300 />  <img src="images/huggingface/hf-15.png"  width=300 /> <img src="images/huggingface/hf-16.png"  width=300 /> <img src="images/huggingface/hf-17.png"  width=300/> <img src="images/huggingface/hf-18.png"  width=300 /> <img src="images/huggingface/hf-19.png"  width=300/> <img src="images/huggingface/hf-20.png"  width=300 />
+<img src="images/huggingface/hf-17.png"  width=300 />  <img src="images/huggingface/hf-7.png"  width=300 />  <img src="images/huggingface/hf-9.png"  width=300 /> <img src="images/huggingface/hf-10.png"  width=300 /> <img src="images/huggingface/hf-11.png"  width=300 /> <img src="images/huggingface/hf-1.png" width=300 /> <img src="images/huggingface/hf-2.png"  width=300 /> <img src="images/huggingface/hf-3.png"  width=300 /> <img src="images/huggingface/hf-4.png"  width=300 /> <img src="images/huggingface/hf-5.png" width=300 /> <img src="images/huggingface/hf-6.png"  width=300 /> <img src="images/huggingface/hf-18.png"  width=300 />  <img src="images/huggingface/hf-19.png"  width=300/>  
 </details>
 
 
